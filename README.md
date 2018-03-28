@@ -7,5 +7,5 @@ _For me to exercise using MySQL statement with prograaming languages and alse as
 - [phpMyAdmin](https://www.phpmyadmin.net/).It makes it much easier to install and manage MySQL and php for begginers. 
 
 ## How to deploy
-- Install phpMyAdmin, read its guides and follow its [User Guide](https://docs.phpmyadmin.net/en/latest/user.html).
-- to visit the system,open 'index.html' in your web browser or 'http://localhost' 
+- Install phpMyAdmin, and follow its [User Guide](https://docs.phpmyadmin.net/en/latest/user.html).
+- to visit the system,open file_path_in_your_PC+'index.php' in your web browser or 'http://localhost:' + [your port num] 
